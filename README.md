@@ -27,7 +27,7 @@ A secure and responsive digital wallet web application inspired by platforms lik
 -  Encrypted Password Storage
 -  Wallet Balance Tracking
 -  Send/Receive Money Between Users
--  Transaction History (optional/coming soon)
+-  Transaction History 
 -  Responsive UI with Tailwind CSS
 
 
@@ -38,7 +38,7 @@ A secure and responsive digital wallet web application inspired by platforms lik
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/paytm-project.git
+git clone https://github.com/bhola-das/E_wallet_project.git
 cd paytm-project
 
 cd backend
